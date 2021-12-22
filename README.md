@@ -26,7 +26,7 @@ Hi, I'm [Panus Kotrajarus!](https://web.facebook.com/Panuskhjrs/), a passionate 
 - I'm a Student in **School of Technology** at **King Mongkut's University of Technology Thonburi**
 - I'm Studying **Information Technology**.
 - 🌱 I’m currently learning **Express**
-- 💬 Ask me about **Laravel , PHP**
+- 💬 Ask me about **Laravel , PHP , Nestjs , Golang fiber , Adonis**
 - <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Panus Kotrajarus](https://web.facebook.com/Panuskhjrs/)
 
 
@@ -55,15 +55,15 @@ const panus = {
         mobileApp: ["Flutter"],
         frontEnd: {
             js: ["Vue", "Nuxt","React"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["materialize", "vuetify", "bootstrap","tailwind"]
         },
         backEnd: {
             php : ["laravel"]
-            js: ["node", "express", "vanilla"],
-            python: ["flask"]
-            java : ["servlet"]
+            js: ["node", "express", "vanilla","adonis","nestjs"],
+            java : ["servlet","spring boot"],
+            golang : ["fiber"]
         },
-        devOps: ["AWS", "Docker🐳", "Docker-Swarm", "Nginx"],
+        devOps: ["AWS", "Google Cloud", "Docker🐳", "Docker-Swarm", "Nginx","K8s","Redhat Openshift"],
         databases: ["mongo", "MySql", "mariaDB","PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
@@ -154,9 +154,9 @@ const panus = {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻  Window 10 / Ubuntu On Wsl 
-- 🍺  PHP Laravel / Express / PHP Swoole / Vue.js*
-- 🐋  Docker / Docker Compose
+- 💻  Window 10 / Ubuntu On Wsl / Mac OS m1
+- 🍺  PHP Laravel / Express / PHP Swoole / Vue.js* / Nest.js / Adonis.js / golang / Strapi
+- 🐋  Docker / Docker Compose / k8s / Redhat openshift / Github actions
 - 📋  Project Manager
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
