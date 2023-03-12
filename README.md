@@ -9,12 +9,7 @@
 <a href="https://www.linkedin.com/in/panas-khotjaras/">
   <img align="left" alt="Panus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31i577hpy5dltkwzjsq7audsk33i">
-  <img align="left" alt="Panus's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/">
-  <img align="left" alt="Panus's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=panus2544.panus2544)
 
